@@ -17,5 +17,8 @@
   "author": "Baptiste Pesquet,",
   "engines":{
     "nodes": "10.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
