@@ -1,4 +1,4 @@
-const serverUrl= "http://localhost:3000";
+const serverUrl= "https://dry-lake-31979.herokuapp.com";
 
 const contentElement = document.getElementById("content");
 
